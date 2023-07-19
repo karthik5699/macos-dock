@@ -1,3 +1,3 @@
-![](dock-animation/public/vite.svg)
+![dock](kapture.gif)
 
 ### MacOS style dock animation with pure
