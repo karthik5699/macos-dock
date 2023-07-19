@@ -1,4 +1,4 @@
-### MacOS style dock animation with pure
+### MacOS style dock animation with pure css
 
 ![dock](./kapture.gif)
 
