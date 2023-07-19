@@ -1,3 +1,3 @@
-![dock](kapture.gif)
+![dock](./kapture.gif)
 
 ### MacOS style dock animation with pure
